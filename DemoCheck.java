@@ -1,4 +1,3 @@
-package demo.github.com;
 
 public class DemoCheck {
 
